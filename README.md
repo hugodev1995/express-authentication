@@ -57,8 +57,3 @@ logins will no longer work)
 /roles
 /permissions
 /memberships
-
-# Credits & Helpful Links Used
-
-Helpful docs on migrations with Sequelize
-http://docs.sequelizejs.com/manual/tutorial/migrations.html
